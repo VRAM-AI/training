@@ -1,0 +1,8 @@
+{
+  "model": "reference-dataset",
+  "n": 822,
+  "compile_rate": 0.625,
+  "uses_2024_syntax_rate": 0.3394,
+  "deepbook_task_pass_rate": 0.0,
+  "timestamp_ms": 1780855929949
+}

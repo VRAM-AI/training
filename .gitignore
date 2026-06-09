@@ -1,0 +1,6 @@
+.env
+*.pyc
+__pycache__/
+data/raw/
+data/filtered/
+data/walrus_manifest.json
